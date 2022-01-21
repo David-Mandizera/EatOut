@@ -4416,7 +4416,7 @@ header .navbar .nav-container input[type=checkbox]:checked ~ .logo {
     font-family: Arch-narrow semibold;
   }
   .donate .wrapper form span {
-    margin-right: 20px;
+    margin-right: 21px;
   }
   .donate .wrapper form:after {
     content: "";
